@@ -5,7 +5,11 @@ Get your API key here: https://newsapi.org/register
 
 ## Screenshots
 
-TODO
+<p>
+  <img src="https://raw.githubusercontent.com/CalvinNor/rn-news/main/screenshots/news-list.png" width="240" title="List">&nbsp;
+  <img src="https://raw.githubusercontent.com/CalvinNor/rn-news/main/screenshots/article-details.png" width="240" title="Details">&nbsp;
+  <img src="https://raw.githubusercontent.com/CalvinNor/rn-news/main/screenshots/read-more.png" width="240" title="Read more">
+</p>
 
 ## Getting Started
 
